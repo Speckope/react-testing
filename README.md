@@ -1,1 +1,1 @@
-## Training testing in React with Jest and Enzyme.
+Training testing in React with Jest and Enzyme.
